@@ -1,0 +1,14 @@
+html{
+  color:black;
+  font-size: 22px;
+}
+body{
+  background-color:black;
+  color:whitesmoke;
+}
+a{
+  color:rgb(242, 67, 67);
+}
+a:active,a:hover{
+  color:aliceblue;
+}
